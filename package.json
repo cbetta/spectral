@@ -93,7 +93,7 @@
     "jest": "~24.8",
     "jest-mock": "^24.8.0",
     "jest-when": "~2.6",
-    "karma": "^4.1.0",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^2.0.1",
     "karma-typescript": "^4.1.1",
